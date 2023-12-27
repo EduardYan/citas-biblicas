@@ -1,3 +1,3 @@
 # Citas bíblicas
 
-![screenshot](./public/screenshot.png)
+![screenshot](./imgs/screenshot.png)
