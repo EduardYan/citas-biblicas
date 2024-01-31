@@ -1,6 +1,6 @@
-function toggleMode() {
-  const body = document.body;
-  const footer = document.querySelector("footer")
+function toggleMode () {
+  const body = document.querySelector('body')
+  const footer = document.querySelector('footer')
   body.classList.toggle('light-mode')
   body.classList.toggle('dark-mode')
   footer.classList.toggle('light-mode')

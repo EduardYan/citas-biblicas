@@ -1,0 +1,13 @@
+{
+  "name": "citas-biblicas",
+  "version": "1.0.0",
+  "author": "EduardYan",
+  "main": "main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
